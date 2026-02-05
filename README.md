@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/01Prathamesh/TeamCommunicationPlatform.git
+git clone https://github.com/Chetan232003/Team-Communication-Management.git
 
 cd TeamCommunicationPlatform
 ```
@@ -150,3 +150,4 @@ This project is licensed under the MIT License. See [LICENSE](./LICENSE) for mor
 
 7. **Inbox Page**  
    ![Inbox Page](Screenshot/7.jpg)
+
